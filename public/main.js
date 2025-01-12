@@ -1,5 +1,5 @@
 // Information to reach API
-const apiKey = '310ad0b89657475093ceb89bc5aebf28'; // Your unique API key for authentication from https://api.rebrandly.com/v1/links
+const apiKey = 'API KEY'; // Copy API Key from rebrandly and put it in the quotation marksYour unique API key for authentication from https://api.rebrandly.com/v1/links
 const url = 'https://api.rebrandly.com/v1/links'; // The endpoint for creating shortened links
 
 // Some page elements
